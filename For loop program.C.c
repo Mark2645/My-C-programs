@@ -1,4 +1,4 @@
-//program to calculate cube of numbers within a cerntain range.
+//program to calculate cube of numbers within a cerntain range using for
 #include <stdio.h>
 
 int main() {
